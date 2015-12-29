@@ -2,7 +2,6 @@ language: go
 
 go:
     - 1.5
-    # - release (it's 1.4 for now, and CGo flags don't work too well)
     - tip
 
 install:
